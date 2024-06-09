@@ -60,10 +60,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chameerakhd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="chameerakhd" bg_color=#808080/>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chameerakhd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="chameerakhd" />
-</p>
-
 ---
 
 <h3 align="center">Connect with me:</h3>
