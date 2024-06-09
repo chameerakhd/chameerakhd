@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Chameera KHD.</h1>
 <h3 align="center">A passionate Developer & Designer from Sri Lanka</h3>
 
----
+
 
 <p align="center">
   👨🏼‍🎓 Studying Computer Science & Engineering at University of Moratuwa <br>
