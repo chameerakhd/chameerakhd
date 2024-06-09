@@ -1,5 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h1 align="center">Hello 👋, I'm Chameera KHD.</h1>
 <h3 align="center">A passionate Computer Science & Engineering Undergraduate from Sri Lanka</h3>
@@ -40,5 +39,3 @@
   
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
